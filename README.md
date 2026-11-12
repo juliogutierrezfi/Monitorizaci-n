@@ -3,7 +3,7 @@
 Práctica de monitorización en Ubuntu Linux: uso de las principales herramientas para observar procesos, CPU, memoria, almacenamiento, red, puertos y conexiones.
 
 - **Autor:** Julio Gutiérrez Figueroa
-- **Sistema:** Ubuntu Linux (máquina virtual)
+- **Sistema:** Debian Linux (máquina virtual)
 - **Fecha:** 11/11/2026
 
 ## Índice
